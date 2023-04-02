@@ -10,4 +10,4 @@ print(f"DA.Username:           {DA.username}")
 
 # MAGIC %sql
 # MAGIC SELECT '${da.username}' AS current_username,
-# MAGIC        '${da.paths.working_dir}' AS working_directories
+# MAGIC        '${da.paths.working_dir}' AS working_directory
